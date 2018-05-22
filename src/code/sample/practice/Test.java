@@ -10,6 +10,7 @@ public class Test {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		//Adding another comment to check if working
 		Test t = new Test();
 		int[] num = {1,4,2,1,4,4,4};
 		int res = t.maxSpan(num);
